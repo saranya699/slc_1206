@@ -1,0 +1,7 @@
+{
+  "name": "slc",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
